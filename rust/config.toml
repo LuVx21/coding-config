@@ -1,3 +1,13 @@
+[alias]
+rr = "run --release"
+
+# [build]
+# # cargo install sccache
+# rustc-wrapper = "/path/to/sccache"
+
+# [http]
+# proxy = "host:port"
+
 [source.crates-io]
 replace-with = 'tuna'
 
