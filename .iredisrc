@@ -1,0 +1,8 @@
+greetings = True
+
+[alias_dsn]
+dicedb=redis://:@mini.local:7379/0
+mini=redis://:@mini.local:6379/0
+macbook=redis://:@macbook.local:6379/0
+yun=redis://uuu:ppp@hhh:ppp
+upstash=redis://uuu:ppp@hhh:ppp

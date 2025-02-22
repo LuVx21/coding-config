@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>192.168.0.0/16</string>
+	<string>10.0.0.0/8</string>
+	<string>172.16.0.0/12</string>
+	<string>127.0.0.1</string>
+	<string>localhost</string>
+	<string>*.local</string>
+	<string>*.crashlytics.com</string>
+	<!-- 上面的不能删掉 -->
+	<!-- ...加入新的域名，如: -->
+	<string>*.rx</string>
+	<string>*luvx*</string>
+	<string>*.cn</string>
+	<!-- <string>*.org</string> -->
+	<!-- 云服务 -->
+	<!-- <string>*.mongodb.net</string> -->
+	<!-- <string>*.redislabs.com</string> -->
+	<!-- <string>*.docker.io</string> -->
+	<!-- <string>*.turso.io</string> -->
+	<!-- <string>*.tidbcloud.com</string> -->
+	<!-- why -->
+	<string>*.zhihu.com</string>
+	<string>*.aliyun.com</string>
+	<string>*.aliyuncs.com</string>
+	<string>*.tencentyun.com</string>
+	<string>*.1ms.run</string>
+</array>
+</plist>

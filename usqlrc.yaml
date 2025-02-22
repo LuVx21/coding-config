@@ -1,0 +1,3 @@
+connections:
+  sqlite_main: sqlite:/Users/renxie/data/sqlite/main.db
+  mysql_luvx: mysql://root:xxx@mini.rx:53306/boot

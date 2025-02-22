@@ -1,0 +1,4 @@
+[core]
+	quotepath = false
+[url "ssh://git@github.com/"]
+	insteadof = https://github.com/

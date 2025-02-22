@@ -1,0 +1,2 @@
+[alias_dsn]
+mini = mysql://xxx:xxx@mini.rx:3306/boot
